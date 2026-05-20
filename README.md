@@ -15,11 +15,7 @@ New Era University<br>
 <br><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3D4C1DD0545CCF5786B0768AA96055E45E8F70DFDE814F7F4E77626A67F28720">Oracle AI Foundations Associate Badge</a>
 <br><a href="https://courses.cognitiveclass.ai/certificates/203944ad154246acb93344b08be5e720">NoSQL and DBaaS 101 Certificate on Cognitive Clasee Ai</a>
 
-### 🛠 Skillsets:">Oracle Data Management Badge</a>
-
-### 🛠 Skillsets:
-
-### 🛠 Skillsets:
-- java programming
-- HTML
-- My Sql
+### 🛠 Skillsets:"
+- Programming :  Java, Javascript
+- Databases: IBM DB2 Cloud
+- Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
