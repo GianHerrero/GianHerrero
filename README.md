@@ -4,7 +4,9 @@
 Herrero, Ricardo Gian V.
 
 ### 🎓 Education:
-New Era University/BSIT
+BS Information Technology
+New Era University
+2021-Present
 
 ### 📜 Certifications:
 <a href="https://courses.cognitiveclass.ai/certificates/18156eda918d418a995f16a5fb09b9fc">Cognitive Class Ai Certificate</a>
