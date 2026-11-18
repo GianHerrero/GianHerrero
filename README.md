@@ -22,4 +22,4 @@ New Era University<br>
 
 ### You may reach me at: 
 LinkedIn: <a href="https://www.linkedin.com/in/gian-herrero-481bbb450/">gian herrero</a>
-<br>Email: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gianherrero8@gmail.com">gianherrero8@gmail.com</a>
+<br>Email: <a href="https://mail.google.com/mail/u/0/?fs=1&to=gianherrero8@gmail.com&tf=cm">gianherrero8@gmail.com</a>
