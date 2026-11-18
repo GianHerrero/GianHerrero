@@ -19,3 +19,7 @@ New Era University<br>
 - Programming :  Java, Javascript
 - Databases: IBM DB2 Cloud
 - Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+### You may reach me at:
+LinkedIn: <a href="https://www.linkedin.com/in/gian-herrero-481bbb450/">gian herrero</a>
+Gmail: <br><a href="https://mail.google.com/mail/u/1/#inbox">gianherrero@gmail.com</a>
