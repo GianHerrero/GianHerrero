@@ -1,25 +1,25 @@
 # 👋 HI! I'M Ricardo Gian V. Herrero
 
-### 👤 About me:
+# 👤 About me:
 I am Ricardo Gian V. Herrero, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
-### 🎓 Education:
+# 🎓 Education:
 BS Information Technology<br>
 New Era University<br>
 2021-Present
 
-### 📜 Certifications:
+# 📜 Certifications:
 <a href="https://courses.cognitiveclass.ai/certificates/18156eda918d418a995f16a5fb09b9fc">Cognitive Class Ai Certificate</a>
 <br><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=83274E8A06FD5504350B62D6D9D763AEB485776B13101FE73DC0ABCD43305D5A">Oracle Badge</a>
 <br><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F5AF462FD59648FB4F3E9020CA5E7B31FD3E2A5AFBCE5C61FF177C0BA3C41AF1">Oracle Data Management Badge</a>
 <br><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3D4C1DD0545CCF5786B0768AA96055E45E8F70DFDE814F7F4E77626A67F28720">Oracle AI Foundations Associate Badge</a>
 <br><a href="https://courses.cognitiveclass.ai/certificates/203944ad154246acb93344b08be5e720">NoSQL and DBaaS 101 Certificate on Cognitive Clasee Ai</a>
 
-### 🛠 Skillsets:
+# 🛠 Skillsets:
 - Programming :  Java, Javascript
 - Databases: IBM DB2 Cloud
 - Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
-### You may reach me at: 
+# 👉 You may reach me at: 
 LinkedIn: <a href="https://www.linkedin.com/in/gian-herrero-481bbb450/">gian herrero</a>
 <br>Email: [gianherrero8@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=gianherrero8@gmail.com)
