@@ -1,7 +1,5 @@
-## 👋 HI! I'M Ricardo Gian V. Herrero
-
 # 👤 About me:
-I am Ricardo Gian V. Herrero, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+Hi! I am Ricardo Gian V. Herrero, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
 
 # 🎓 Education:
 BS Information Technology<br>
